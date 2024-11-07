@@ -3,12 +3,17 @@ E-Commerce Back End
 
 
 ## Description
-![Screenshot](assets/screenshot.png)
 
-[![A video thumbnail shows the command-line application with a play button overlaying the view.](./Assets/09-thumbnail.png)](https://drive.google.com/file/d/1TyDL1hQ58rLrL_T2EtzGx7Fw472nsMvQ/preview)
+This is a backend application for an e-commerce site built on starter code. it is configured using Express.js API to use Sequelize to interact with a PostgreSQL database.
 
+![Screenshot](assets/screenshot1.png)
+![Screenshot](assets/screenshot2.png)
 
-This is a backend application for an e-commerce site built on starter code. it is configured using Express.js API to use Equelize to interact with a PostgreSQL database.
+[![video thumbnail](./Assets/thumbnail.png)](https://drive.google.com/file/d/1mKbASxBEAC72TeuKknagcg8Vnw6LrjJi/view)
+
+Video Link: https://drive.google.com/file/d/1mKbASxBEAC72TeuKknagcg8Vnw6LrjJi/view
+Repo: https://github.com/stephenw987/E-commerce_Back_End_13.git
+
 
 ## Usage
 
